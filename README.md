@@ -38,19 +38,20 @@ On a hairpin bend, the hill hides each driver from the other. This project gives
 
 ### Project photos
 
-**Assembled units**
+<table>
+  <tr>
+    <td align="center"><img src="docs/images/hardware/closed-units-front.jpg" width="260" alt="Both closed units from the front"><br><sub>Front view</sub></td>
+    <td align="center"><img src="docs/images/hardware/closed-units-angle-1.jpg" width="260" alt="Closed units from an angle"><br><sub>Angle view</sub></td>
+    <td align="center"><img src="docs/images/hardware/closed-units-angle-2.jpg" width="260" alt="Closed units from a wider angle"><br><sub>Wider view</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/images/hardware/closed-units-top.jpg" height="340" alt="Closed units from above with vehicle labels"><br><sub>Vehicle labels</sub></td>
+    <td align="center"><img src="docs/images/hardware/open-units-top-2.jpg" height="340" alt="Open units from above"><br><sub>Inside the units</sub></td>
+    <td align="center"><img src="docs/images/hardware/open-units-side-by-side.jpg" height="340" alt="Open units side by side"><br><sub>Wiring, side by side</sub></td>
+  </tr>
+</table>
 
-| Front | Top |
-|---|---|
-| ![Closed units from the front](docs/images/hardware/closed-units-front.jpg) | ![Closed units from above](docs/images/hardware/closed-units-top.jpg) |
-| ![Closed units from an angle](docs/images/hardware/closed-units-angle-1.jpg) | ![Closed units from another angle](docs/images/hardware/closed-units-angle-2.jpg) |
-
-**Inside the units**
-
-| | |
-|---|---|
-| ![Open units from above, view 1](docs/images/hardware/open-units-top-1.jpg) | ![Open units from above, view 2](docs/images/hardware/open-units-top-2.jpg) |
-| ![Open units from above, view 3](docs/images/hardware/open-units-top-3.jpg) | ![Open units side by side](docs/images/hardware/open-units-side-by-side.jpg) |
+More photos are in the [hardware folder](docs/images/hardware).
 
 ### Program flow
 
